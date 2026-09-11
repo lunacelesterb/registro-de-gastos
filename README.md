@@ -27,4 +27,4 @@ Para que la extracción de datos funcione correctamente, el módulo de **Google 
 ### Ejemplo de Prompt utilizado:
 > "Analiza la siguiente transcripción de audio e identifica el monto, concepto y categoría del gasto. Además, considera que el nombre de la mascota del usuario es **[Nombre de tu mascota]** (para asignar gastos de veterinaria o alimentos automáticamente). Devuelve la respuesta estrictamente en formato JSON."
 
-*Nota: Al importar el blueprint, asegurate de personalizar los datos fijos del prompt (como el nombre de tu mascota o categorías propias) dentro del módulo de Gemini.*
+*Nota: Al importar el blueprint, asegurate de personalizar los datos fijos del prompt (como el nombre de tu mascota o añadir categorías propias) dentro del módulo de Gemini.*
